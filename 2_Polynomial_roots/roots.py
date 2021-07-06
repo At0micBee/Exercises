@@ -23,7 +23,7 @@ c_in = float(input("c = "))
 # Computing delta with the given input values
 d = delta(a_in, b_in, c_in)
 
-# Chaking all the possibilities
+# Checking all the possibilities
 if d < 0:
     print("Delta =", d, "< 0, no real answers!")
 
