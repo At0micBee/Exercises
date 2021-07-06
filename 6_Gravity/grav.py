@@ -34,6 +34,7 @@ pl.figure()
 pl.plot(time, vel, color = "teal", label = "Velocity")
 
 # Giving info on the figure
+pl.title("Velocity and position")
 pl.xlabel("Time [s]")
 pl.ylabel("Velocity [m.s$^{-1}$]")
 pl.legend(loc = "upper left")

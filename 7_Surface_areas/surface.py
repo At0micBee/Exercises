@@ -34,6 +34,7 @@ pl.figure()
 pl.plot(values, circle, color = "purple", label = "$\pi r^{2}$")
 pl.plot(values, square, color = "teal", label = "$a^{2}$")
 
+pl.title("Comparing the surfaces")
 pl.xlabel("Radius / side")
 pl.ylabel("Surface")
 
