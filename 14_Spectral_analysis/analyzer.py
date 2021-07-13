@@ -5,9 +5,9 @@
 ########################################################################################################################
 # Importing modules
 
-import numpy as np
-import matplotlib.pyplot as pl
-pl.style.use("seaborn-paper")
+import numpy as np              # Math and arrays
+import matplotlib.pyplot as pl  # Data visualization
+pl.style.use("seaborn-paper")   # I just like this style
 
 ########################################################################################################################
 # Defining functions and constants

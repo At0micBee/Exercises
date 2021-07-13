@@ -5,10 +5,10 @@
 ########################################################################################################################
 # Importing modules
 
-import os
-import numpy as np
-import matplotlib.pyplot as pl
-pl.style.use("seaborn-paper")
+import os                       # OS operations
+import numpy as np              # Math and arrays
+import matplotlib.pyplot as pl  # Data visualization
+pl.style.use("seaborn-paper")   # I just like this style
 
 ########################################################################################################################
 # We are going to use a dictionary to simplify our data management

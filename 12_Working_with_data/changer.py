@@ -1,3 +1,9 @@
+#
+# Modifies the database file to a simple column file
+# Not relevant for the exercise itself
+#
+
+########################################################################################################################
 
 import numpy as np
 
