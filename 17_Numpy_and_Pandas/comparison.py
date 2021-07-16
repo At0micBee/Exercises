@@ -80,9 +80,6 @@ pl.close()
 ########################################################################################################################
 # Creating the figure using pandas
 
-# Setting the space to use by each figure
-x_space = 0.25
-
 # Creating the figure, with 3 times the normal width to accommodate my graphs
 pl.figure(figsize = (19.2, 4.8))
 
