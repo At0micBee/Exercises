@@ -1,1 +1,6 @@
 .vscode
+/Exercises/*
+!/Exercises/figures
+!/Exercises/bib.bib
+!/Exercises/Exercises.tex
+!/Exercises/Exercises.pdf
